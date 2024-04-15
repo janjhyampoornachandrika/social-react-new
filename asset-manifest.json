@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/janjhyampoornachandrika/social-react-new/static/css/main.b7e7c0d8.css",
+    "main.js": "/janjhyampoornachandrika/social-react-new/static/js/main.36fd74ef.js",
+    "static/media/bg1.jpg": "/janjhyampoornachandrika/social-react-new/static/media/bg1.1bd79f374e6c1d00a5f1.jpg",
+    "index.html": "/janjhyampoornachandrika/social-react-new/index.html",
+    "main.b7e7c0d8.css.map": "/janjhyampoornachandrika/social-react-new/static/css/main.b7e7c0d8.css.map",
+    "main.36fd74ef.js.map": "/janjhyampoornachandrika/social-react-new/static/js/main.36fd74ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e7c0d8.css",
+    "static/js/main.36fd74ef.js"
+  ]
+}
